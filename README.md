@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleksandr "Tifox" Tilnyi</h1>
 <h3 align="center">Passionate about Flutter and mobile applications. Currently gaining new experience in Flutter, building beautiful UIs and attempting to figure out what is 'perfect architecture' is:)</h3>
 
-- 🔭 I’m currently creating @ **HappyByte**
+- 🔭 Currently freelancing
 
 - 🌱 I’m currently learning **Flutter, Clean architecture, Complex UIs**
 
