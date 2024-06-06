@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, Clean architecture, Complex UIs**
 
-- 📫 How to reach me **tilnyi.olexander@gmail.com**
+- 📫 How to reach me **oleksandr.tilnyi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
