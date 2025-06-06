@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Oleksandr "Tifox" Tilnyi</h1>
-<h3 align="center">Passionate about Flutter and mobile applications. Currently gaining new experience in Flutter, building beautiful UIs and attempting to figure out what is 'perfect architecture' is:)</h3>
+<h3 align="center-left">With more than 5 years of experience have a broad vision when it comes to code style, readability, and maintainability. I am open-minded when it comes to finding a balance between business and technical aspects. I have experience as a tech lead for an outdoor hiking app that is currently available on the market. 
+I believe in propagating healthy relationships within the team and strive to find a work-life balance without any negative impact.</h3>
 
-- 🔭 Currently freelancing
+- 🔭 Currently creating @ Plentific
 
-- 🌱 I’m currently learning **Flutter, Clean architecture, Complex UIs**
+- 🌱 I’m currently learning **Architecture approaches, Complex UIs, Time management, public speaking**
 
 - 📫 How to reach me **oleksandr.tilnyi@gmail.com**
 
